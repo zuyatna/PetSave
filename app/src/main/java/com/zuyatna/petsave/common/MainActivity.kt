@@ -1,7 +1,8 @@
-package com.zuyatna.petsave
+package com.zuyatna.petsave.common
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.zuyatna.petsave.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
